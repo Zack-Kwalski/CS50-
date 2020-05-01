@@ -1,1 +1,1 @@
-# CS50-Zack Kwalski
+Zack Kwalski
